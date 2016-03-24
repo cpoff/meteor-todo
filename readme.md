@@ -1,4 +1,4 @@
-# Meteor TodoMVC Example
+# Meteor TodoMVC Examples
 
 > Meteor is an open-source platform for building top-quality web apps in a fraction of the time, whether you're an expert developer or just getting started.
 
