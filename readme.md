@@ -1,3 +1,5 @@
+This is an open source project I picked up just to tinker with.
+
 # Meteor TodoMVC Example
 
 > Meteor is an open-source platform for building top-quality web apps in a fraction of the time, whether you're an expert developer or just getting started.
