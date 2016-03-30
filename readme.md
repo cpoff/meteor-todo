@@ -1,4 +1,4 @@
-This is an open source project I picked up just to tinker with. You know, for fun.
+This is an open source project I picked up just to tinker with. 
 
 # Meteor TodoMVC Example
 
